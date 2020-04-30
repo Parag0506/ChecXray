@@ -547,15 +547,22 @@ below.
 - **THRESHOLD**: Classification threshold for prediction
 
 ## Contact
-**Matt Ross**  
-Manager, Artificial Intelligence  
-Information Technology Services 
-City Manager’s Office 
-The Corporation of the City of London  
-201 Queens Ave. Suite 300, London, ON. N6A 1J1  
-C: 226.448.9113 | maross@london.ca
+**Parag Ghorpade**  
+DSC Modern Education Society's College of Engineering 
+Pune  
+paragghorpade1998@gmail.com
 
-**Blake VanBerlo**  
-Data Scientist  
-City of London Research and Innovation Lab  
-C: vanberloblake@gmail.com  
+**Varun Irani**  
+DSC Modern Education Society's College of Engineering 
+Pune  
+varunirani0505@gmail.com
+
+**Hrishikesh Mane**  
+DSC Modern Education Society's College of Engineering 
+Pune  
+hrishi.mane26@gmail.com
+
+**Akash Lende**  
+DSC Modern Education Society's College of Engineering 
+Pune  
+akash.lende12@gmail.com
