@@ -4,6 +4,7 @@
 </p>
 
 > A flutter app to detect Covid-19 disease using chest radiographs.
+> <b>DO NOT </b> use this for self medical diagnosis, it's not medically approved
 
 <h2>Python Version</h2>
 <p>3.6.x and above<p>
