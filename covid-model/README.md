@@ -112,12 +112,15 @@ global effort of identifying and treating cases of COVID-19. This model is a pro
    tab of TensorBoard.  
    ![alt text](documents/readme_images/loss.jpeg "Loss vs
    Epoch")
+   
    ![alt text](documents/readme_images/AUC.jpeg "AUC Curve")
+   
+   ![alt text](documents/readme_images/Accuracy.jpeg "Accuracy vs Epoch")
+   
    You can also visualize the trained model's performance on the test
    set. See below for an example of the ROC Curve and Confusion Matrix
    based on test set predictions. In our implementation, these plots are
    available in the _IMAGES_ tab of TensorBoard.
-   ![alt text](documents/readme_images/Accuracy.jpeg "AUC Curve")
    ![alt text](documents/readme_images/binary_cm.jpeg "Confusion
    Matrix")
 
