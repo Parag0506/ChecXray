@@ -110,14 +110,18 @@ global effort of identifying and treating cases of COVID-19. This model is a pro
    depicting the change in performance metrics throughout the training
    process (such as the example below) are available in the _SCALARS_
    tab of TensorBoard.  
-   ![alt text](documents/readme_images/tensorboard_loss.png "Loss vs
-   Epoch")  
+   ![alt text](documents/readme_images/loss.jpeg "Loss vs
+   Epoch")
+   
+   ![alt text](documents/readme_images/AUC.jpeg "AUC Curve")
+   
+   ![alt text](documents/readme_images/Accuracy.jpeg "Accuracy vs Epoch")
+   
    You can also visualize the trained model's performance on the test
    set. See below for an example of the ROC Curve and Confusion Matrix
    based on test set predictions. In our implementation, these plots are
-   available in the _IMAGES_ tab of TensorBoard.  
-   ![alt text](documents/readme_images/roc_example.PNG "ROC Curve")
-   ![alt text](documents/readme_images/cm_example.PNG "Confusion
+   available in the _IMAGES_ tab of TensorBoard.
+   ![alt text](documents/readme_images/binary_cm.jpeg "Confusion
    Matrix")
 
 ## Binary vs. Multi-class Models
@@ -543,15 +547,22 @@ below.
 - **THRESHOLD**: Classification threshold for prediction
 
 ## Contact
-**Matt Ross**  
-Manager, Artificial Intelligence  
-Information Technology Services 
-City Manager’s Office 
-The Corporation of the City of London  
-201 Queens Ave. Suite 300, London, ON. N6A 1J1  
-C: 226.448.9113 | maross@london.ca
+**Parag Ghorpade**  
+DSC Modern Education Society's College of Engineering 
+Pune  
+paragghorpade1998@gmail.com
 
-**Blake VanBerlo**  
-Data Scientist  
-City of London Research and Innovation Lab  
-C: vanberloblake@gmail.com  
+**Varun Irani**  
+DSC Modern Education Society's College of Engineering 
+Pune  
+varunirani0505@gmail.com
+
+**Hrishikesh Mane**  
+DSC Modern Education Society's College of Engineering 
+Pune  
+hrishi.mane26@gmail.com
+
+**Akash Lende**  
+DSC Modern Education Society's College of Engineering 
+Pune  
+akash.lende12@gmail.com
