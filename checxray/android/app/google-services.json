@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "978118392945",
+    "firebase_url": "https://checxray.firebaseio.com",
+    "project_id": "checxray",
+    "storage_bucket": "checxray.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978118392945:android:45cad6594079df8e756fd0",
+        "android_client_info": {
+          "package_name": "com.dscmescoe.checxray"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978118392945-35afsthem46nnb59rvicbi9cfjgufhdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dscmescoe.checxray",
+            "certificate_hash": "6d5a8e838cef2b19e6726fd6c998b5ea4e6eeee2"
+          }
+        },
+        {
+          "client_id": "978118392945-m8dt9r97f09psr3q7psqsj4ogeqmpm6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0GzP0xpGDrAPpTz_GstGNvhpaxkUPU0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978118392945-m8dt9r97f09psr3q7psqsj4ogeqmpm6q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978118392945-lslc0idqj7oq2ah6uj1qsfoau0ed301i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dscmescoe.checxray"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
