@@ -117,7 +117,7 @@ global effort of identifying and treating cases of COVID-19. This model is a pro
    based on test set predictions. In our implementation, these plots are
    available in the _IMAGES_ tab of TensorBoard.  
    ![alt text](documents/readme_images/roc_example.PNG "ROC Curve")
-   ![alt text](documents/readme_images/cm_example.PNG "Confusion
+   ![alt text](documents/readme_images/binary_cm.jpeg "Confusion
    Matrix")
 
 ## Binary vs. Multi-class Models
