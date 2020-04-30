@@ -1,16 +1,24 @@
-# checxray
+<h1 align="center">Welcome to ChecXray 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
-A new Flutter project.
+> A flutter app to detect Covid-19 disease using chest radiographs.
 
-## Getting Started
+## Install
 
-This project is a starting point for a Flutter application.
+```sh
+flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```sh
+flutter run
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+
+👤 **DSC Modern Education Society's College of Engineering**
+
+* Github: [@Parag0506](https://github.com/Parag0506)
