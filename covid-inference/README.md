@@ -6,7 +6,7 @@
 > A flutter app to detect Covid-19 disease using chest radiographs.
 
 <h2>Python Version</h2>
-> 3.6.x and above
+<p>3.6.x and above<p>
 
 ## Install
 
